@@ -1,0 +1,128 @@
+
+
+-----
+
+San Mateo
+(Unidad) Checkpoint at -14.7296:-64.7802
+Recover Intel
+
+Remanzo
+(Santa Blanca) Marcavi at -15.0305:-65.4757
+Recover Intel
+
+Remanzo
+(Unidad) F.O.B Puma at -14.6414:-657465
+Search and Destroy
+
+
+
+-----
+
+Villa Verde
+(Unidad) Observation Post at -15.7172:-59.0790
+Search and Destroy
+
+Villa Verde
+(Santa Blanca) Outpost at -15.5214:-60.5060
+Eliminate All Hostiles
+
+Espiritu Santo
+(Santa Blanca) Pilgrim House at -14.3262:-60.5883
+Recover Intel
+
+
+
+-----
+
+Flor De Oro
+(Santa Blanca) Halcone House at -19.5860:-60.8542
+Recover Intel
+
+Libertad
+(Santa Blanca) Outpost at -21.0844:-59.6732
+Eliminate All Hostiles
+
+Libertad
+() 
+Convoy Raid
+
+
+
+-----
+
+Ocoro
+(Santa Blanca) Checkpoint at -16.9291:-61.2724
+Eliminate All Hostiles
+
+Villa Verde
+(Unidad) F.O.B Tucan at -16.0141:-59.7403
+Eliminate All Hostiles
+
+Villa Verde
+() 
+Convoy Raid
+
+
+
+-----
+
+Remanzo
+(Unidad) F.O.B Puma at -14.6414:-657465
+Search and Destroy
+
+Remanzo
+(Santa Blanca) Test Center at -14.7633:-65.2320
+Recover Intel
+
+Media Luna
+() 
+Convoy Raid
+
+
+
+-----
+
+P.N. De Agua Verde
+(Santa Blanca) Outpost at -14.8217:-61.4421
+Eliminate All Hostiles
+
+Media Luna
+(Unidad) Checkpoint at -13.7862:-64.8963
+Recover Intel
+
+Media Luna
+(Unidad) Combat Outpost at -13.8744:-64.7063
+Recover Intel
+
+
+
+-----
+
+Espiritu Santo
+(Unidad) Observation Post at -14.4879:-60.5534
+Eliminate All Hostiles
+
+P.N. De Agua Verde
+() 
+Convoy Raid
+
+P.N. De Agua Verde
+(Santa Blanca) Paraiso Casino at -15.9846:-62.8583
+Assassinate HVT
+
+
+
+-----
+
+Inca Camina
+(Santa Blanca) Julpe Alto at -20.0327:-65.0955
+Eliminate All Hostiles
+
+Inca Camina
+() 
+Convoy Raid
+
+Malca
+(Santa Blanca) Outpost at -20.7216:-61.8012
+Assassinate HVT
+
